@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Neha
 
-<!--
-**nehasawant99/nehasawant99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Learn| Python Developer | Web Builder
 
-Here are some ideas to get you started:
+I'm currently focused on learning cybersecurity, Python automation, and building practical projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Cybersecurity fundamentals
+- Python automation and scripting
+- Web application development
+- Open-source learning
+
+## Projects
+- Network Scanner
+- Log Analyzer
+- Student Marketplace Platform
+- SMS Finance Tracker
+
+## Tech Stack
+Python • Django • Flask • Linux • Git • SQL
+
+## Connect
+LinkedIn: <your-linkedin>
