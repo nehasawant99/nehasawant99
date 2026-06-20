@@ -1,6 +1,6 @@
 # Hi, I'm Neha
 
-Cybersecurity Learn| Python Developer | Web Builder
+Cybersecurity learning| Python Developer | Web Development
 
 I'm currently focused on learning cybersecurity, Python automation, and building practical projects that solve real-world problems.
 
@@ -14,10 +14,10 @@ I'm currently focused on learning cybersecurity, Python automation, and building
 - Network Scanner
 - Log Analyzer
 - Student Marketplace Platform
-- SMS Finance Tracker
+- SecurifyAI
 
 ## Tech Stack
 Python • Django • Flask • Linux • Git • SQL
 
 ## Connect
-LinkedIn: <your-linkedin>
+LinkedIn: in/neha-sawant-778628415
