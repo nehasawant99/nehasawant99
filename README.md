@@ -24,6 +24,7 @@ Python • Flask • Django • Linux • Git • SQL • JavaScript • HTML �
 - SOC fundamentals
 - Web application security (OWASP basics)
 - Incident analysis
+- Linux fundamentals
 
 ## Connect
 LinkedIn: linkedin.com/in/neha-sawant-778628415
