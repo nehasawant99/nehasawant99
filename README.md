@@ -1,6 +1,6 @@
 # Hi, I'm Neha 👋
 
-Computer Science graduate exploring cybersecurity, Python, and web development through hands-on projects.
+Building projects in Python, cybersecurity, and web development while continuously learning through hands-on practice.
 
 ## Projects
 - Student Marketplace
