@@ -1,30 +1,15 @@
-# Hi, I'm Neha
+# Hi, I'm Neha 👋
 
-Cybersecurity | Python Developer | Web Development
-
-I work on cybersecurity learning, Python scripting, and building small security-focused projects to understand real-world systems.
-
-## Current Focus
-- Cybersecurity fundamentals (networking, logs, basic analysis)
-- Python scripting and automation
-- Web application development
-- Practising security tools and Linux environment
+Computer Science graduate exploring cybersecurity, Python, and web development through hands-on projects.
 
 ## Projects
+- Student Marketplace
+- SecurifyAI
 - Nmap Reconnaissance Lab
-- Phishing Email Analysis Case Study 
-- Student Marketplace – an academic full-stack web app for student buying/selling
-- SecurifyAI – AI-based cybersecurity tool for threat detection and log analysis
+- Phishing Email Analysis
 
 ## Tech Stack
-Python • Flask • Django • Linux • Git • SQL • JavaScript • HTML • CSS
-
-## Learning Areas
-- Network security basics
-- SOC fundamentals
-- Web application security (OWASP basics)
-- Incident analysis
-- Linux fundamentals
+`Python` `Flask` `Django` `HTML` `CSS` `JavaScript` `SQL` `Linux` `Git`
 
 ## Connect
-LinkedIn: linkedin.com/in/neha-sawant-778628415
+📎 LinkedIn: linkedin.com/in/neha-sawant-778628415
