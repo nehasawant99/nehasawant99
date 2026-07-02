@@ -1,4 +1,4 @@
-# Hi, I'm Neha 👋
+# Hi, I'm Neha 
 
 Building projects in Python, cybersecurity, and web development while continuously learning through hands-on practice.
 
