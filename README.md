@@ -1,9 +1,17 @@
-<h1 align="center">Hi, I'm Neha Sawant 👋</h1>
-<h3 align="center">Web Development | Cybersecurity & AI </h3>
+<h2 align="center">Neha Sawant</h2>
 
 <p align="center">
-Documenting labs, notes, projects, and technical learning through code.
+Web Development • Cybersecurity • AI
 </p>
+
+---
+
+Building things.
+Breaking things.
+Fixing things.
+Learning from them.
+
+This GitHub is a collection of projects, labs, notes, and experiments as I continue learning.
 
 ---
 
