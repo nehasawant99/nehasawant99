@@ -6,14 +6,17 @@ Web Development • Cybersecurity • AI
 
 ---
 
-Building things.
-Breaking things.
-Fixing things.
-Learning from them.
+Not an expert.
 
-This GitHub is a collection of projects, labs, notes, and experiments as I continue learning.
+Just someone who enjoys understanding how things work.
 
----
+Building projects.
+
+Making mistakes.
+
+Fixing bugs.
+
+Learning every day.
 
 ## About Me
 
