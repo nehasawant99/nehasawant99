@@ -2,7 +2,7 @@
 <h3 align="center">Web Development | Cybersecurity & AI </h3>
 
 <p align="center">
-Building practical cybersecurity, AI, and backend projects while continuously learning through hands-on experience.
+Documenting labs, notes, projects, and technical learning through code.
 </p>
 
 ---
