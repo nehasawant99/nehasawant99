@@ -60,8 +60,8 @@ Currently working on Python, cybersecurity, and web development projects while e
 
 ## 📂 Featured Projects
 
-### 🔹 AuditTrail AI
-A local-first SOC dashboard that analyses network scan logs using Regex, a rule-based engine, Cognee, and SQLite.
+### 🔹 Netsmart
+NetSmart is a web-based cyber mini awareness portal built with Flask and SQLite.
 
 ### 🔹 Student Marketplace
 A web platform that allows students to buy and sell products within their college community.
