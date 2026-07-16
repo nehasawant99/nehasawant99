@@ -58,25 +58,6 @@ Currently working on Python, cybersecurity, and web development projects while e
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Netsmart
-NetSmart is a web-based cyber mini awareness portal built with Flask and SQLite.
-
-### 🔹 Student Marketplace
-A web platform that allows students to buy and sell products within their college community.
-
-### 🔹 SecurifyAI
-An AI-focused security project exploring practical cybersecurity workflows.
-
-### 🔹 Nmap Reconnaissance Lab
-Hands-on network reconnaissance and enumeration using Nmap in a controlled lab environment.
-
-### 🔹 Phishing Email Analysis
-Analysed phishing emails by investigating email headers, links, and indicators of compromise (IOCs).
-
----
-
 
 ## 🌐 Connect With Me
 
