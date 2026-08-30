@@ -17,7 +17,9 @@ Focused on how attacks happen, what evidence systems leave behind, and how secur
 ## Tech Stack
 
 **Languages & Frameworks:** Python · Flask · C# · ASP.NET Core · JavaScript · HTML · CSS
+
 **Databases:** SQL · SQLite · PostgreSQL
+
 **Security Tools:** Linux · Kali Linux · Wireshark · Nmap
 
 ## Connect
