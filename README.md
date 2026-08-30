@@ -6,9 +6,7 @@ I learn through building projects — trial and error, and fixing what goes wron
 
 Building web apps helps me learn how frontend, backend, and database work together.
 
-Currently working with Python, Flask, C#, and ASP.NET Core, as well as HTML, CSS, JavaScript, and SQL. Projects are where I learn the most — from small apps to full-stack builds like [FreshMart](#)—learning system design as I go — mainly how to structure projects that could scale.
-
-## Cybersecurity
+Currently working with Python, Flask, C#, and ASP.NET Core, as well as HTML, CSS, JavaScript, and SQL. Projects are where I learn the most — from small apps to full-stack builds like [FreshMart](#) — learning system design as I go, mainly how to structure projects that could scale.
 
 ## Cybersecurity
 
@@ -24,4 +22,4 @@ Focused on how attacks happen, what evidence systems leave behind, and how secur
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/neha-sawant-778628415/) · [Email](nehasawant549@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/neha-sawant-778628415/) · [Email](mailto:nehasawant549@gmail.com)
