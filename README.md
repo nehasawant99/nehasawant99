@@ -1,4 +1,4 @@
-# Hi, I'm [Neha Sawant]
+# Hi, I'm Neha Sawant
 
 I learn through building projects — trial and error, and fixing what goes wrong.
 
