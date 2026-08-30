@@ -6,7 +6,7 @@ I learn through building projects — trial and error, and fixing what goes wron
 
 Building web apps helps me learn how frontend, backend, and database work together.
 
-Currently working with Python, Flask, C#, and ASP.NET Core, as well as HTML, CSS, JavaScript, and SQL. Projects are where I learn the most — from small apps to full-stack builds like [FreshMart](#) — learning system design as I go, mainly how to structure projects that could scale.
+Currently working with Python, Flask, C#, and ASP.NET Core, as well as HTML, CSS, JavaScript, and SQL. Projects are where I learn the most — from small apps to full-stack builds like [FreshMart](https://github.com/nehasawant99/freshmart.git) — learning system design as I go, mainly how to structure projects that could scale.
 
 ## Cybersecurity
 
