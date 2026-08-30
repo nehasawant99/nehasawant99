@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name]
+# Hi, I'm [Neha Sawant]
 
-I learn through building projects — trial, error, and fixing what goes wrong.
+I learn through building projects — trial and error, and fixing what goes wrong.
 
 ## Web Development
 
