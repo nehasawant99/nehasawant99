@@ -1,6 +1,6 @@
 # Hi, I'm Neha Sawant
 
-I learn through building projects — trial and error, and fixing what goes wrong.
+I learn best through hands-on practice — building projects, experimenting, and understanding why something works rather than memorising it. I apply what I learn directly through projects and practical work.
 
 ## Web Development
 
