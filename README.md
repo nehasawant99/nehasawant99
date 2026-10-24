@@ -1,18 +1,22 @@
-# Hi, I'm Neha Sawant
+# Hi, I'm Neha Sawant 
 
-I learn best through hands-on practice — building projects, experimenting, and understanding why something works rather than memorising it. I apply what I learn directly through projects and practical work.
+I'm pursuing MCA and learn best through hands-on practice — building projects, experimenting, debugging, and understanding why things work rather than memorising them.
 
 ## Web Development
 
-Building web apps helps me learn how frontend, backend, and database work together.
+I build web applications to understand how frontend, backend, databases, and application logic work together.
 
-Currently working with Python, Flask, C#, and ASP.NET Core, as well as HTML, CSS, JavaScript, and SQL. Projects are where I learn the most — from small apps to full-stack builds like [FreshMart](https://github.com/nehasawant99/freshmart.git) — learning system design as I go, mainly how to structure projects that could scale.
+Currently working with Python, Flask, C#, ASP.NET Core, HTML, CSS, JavaScript, and SQL. My projects include full-stack applications like **FreshMart**, along with smaller projects that help me explore backend development, database integration, authentication, and application design.
 
 ## Cybersecurity
 
-I learn cybersecurity through hands-on labs and investigation-style projects — log analysis, Windows Event Viewer/Event IDs, authentication and process investigation, suspicious activity detection, and basic incident response. I also study how different types of cybercrime are approached and handled from an investigative standpoint.
+I'm learning cybersecurity through practical labs and investigation-based projects, focusing on log analysis, Windows Event Viewer, authentication and process investigation, suspicious activity detection, and incident response.
 
-Focused on how attacks happen, what evidence systems leave behind, and how security teams piece that evidence together.
+I'm interested in understanding how attacks happen, what evidence systems leave behind, and how security teams investigate suspicious activity.
+
+## My Approach
+
+I learn by building, testing, fixing mistakes, and improving things step by step. I focus on understanding the concepts behind what I build and applying them through practical work.
 
 ## Tech Stack
 
