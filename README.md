@@ -1,10 +1,11 @@
-## Pursuing MCA with a clear goal of building a career in the IT industry.
+## Neha sawant 
+Pursuing MCA with a clear goal of building a career in the IT industry.
 
-## Learning by building real projects, documenting study resources, and solving problems hands-on.
+Learning by building real projects, documenting study resources, and solving problems hands-on.
 
-## Exploring multiple areas of tech to discover strengths and expand practical knowledge.
+Exploring multiple areas of tech to discover strengths and expand practical knowledge.
 
-## Committed to steady growth and improving every day.
+Committed to steady growth and improving every day.
 
 ## Connect
 
