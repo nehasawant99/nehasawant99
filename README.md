@@ -7,6 +7,8 @@ Exploring multiple areas of tech to discover strengths and expand practical know
 
 Committed to steady growth and improving every day.
 
+Dive into my repositories below to explore my latest projects, experiments, and learning work.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/neha-sawant-778628415/) · [Email](mailto:nehasawant549@gmail.com)
